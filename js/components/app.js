@@ -429,7 +429,7 @@ var Layout = function (_Component) {
     key: 'goBack',
     value: function goBack() {
       this.setState({
-        name: 'Joe',
+        name: 'James',
         location: 'home',
         date: (0, _moment2.default)(),
         data: '',
